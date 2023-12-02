@@ -1,4 +1,4 @@
-# Short-term-Prediction-of-Bitcoin-Market-Price
+# Short-term-Prediction-of-Bitcoin-Market-Price-Using-LSTM
 Required Libraries to run this project
 1. Matplotlib
 2. Numpy
